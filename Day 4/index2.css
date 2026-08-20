@@ -1,0 +1,48 @@
+.container {
+    display: flex;
+    /* justify-content:center; */
+    /* justify-content:space-around; */
+    /* justify-content:space-between; */
+    /* justify-content:space-evenly; */
+    /* justify-content:stretch; */
+    /* flex-direction:column; */
+    /* flex-direction:column-reverse; */
+    /* flex-direction:row; */
+    /* flex-direction:row-reverse; */
+    flex-wrap: wrap;
+    
+}
+
+.box {
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    text-align: center;
+    font-size: 5em;
+    border: 1px solid yellow;
+
+}
+
+.box:hover {
+    transform: scale(1, 2);
+}
+
+#box1 {
+    background-color: rgb(234, 255, 0);
+}
+
+#box2 {
+    background-color: rgb(135, 235, 227);
+}
+
+#box3 {
+    background-color: rgb(0, 128, 90);
+}
+
+#box4 {
+    background-color: rgb(255, 115, 0);
+}
+
+#box5 {
+    background-color: rgb(255, 192, 231);
+}
