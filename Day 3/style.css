@@ -1,0 +1,12 @@
+p {
+    color: azure;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 10px;
+    box-shadow: 0 0 0 5px grey;
+    margin-right: 50px;
+    background-image: url("image.png");
+}
+
+body {
+    background-color: aqua;
+}

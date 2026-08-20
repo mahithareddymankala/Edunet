@@ -1,0 +1,29 @@
+.box {
+    background-color: orange;
+    padding: 10px;
+    border: 1px solid black;
+    margin: 5px;
+
+}
+.block
+{
+    display: block;
+    background-color: red;
+    
+}
+.inline
+{
+    display: inline;
+    background-color: blue;
+}
+.inline-block
+{
+    display: inline-block;
+    background-color: green;
+    width: 100px;
+    height: 100px;
+}
+.none
+{
+    display: none;
+}

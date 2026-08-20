@@ -1,0 +1,17 @@
+CSS SELECTORS:
+1.Universal-Selects every element
+2.Type-Targets tag name
+3.Class-Reusable,shared styling
+4.ID-One unique element
+5.Grouping-Same rule,many selectors
+
+ABSOLUTE UNITS
+mm,cm,in,pt,pc,px
+
+RELATIVE UNITS
+%,em,rem,vm,vh
+per,fontsize,root,viewport width,viewport height
+
+
+
+
